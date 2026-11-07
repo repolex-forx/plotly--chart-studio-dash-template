@@ -1,0 +1,22 @@
+{
+  "manifest_version": "1.0",
+  "org": "plotly",
+  "repo": "chart-studio-dash-template",
+  "versions": [
+    {
+      "commit": "f6d92a3d4fb4f59b7d6558a199e90e67fd683b6f",
+      "parsed_at": "2026-11-07T07:59:43.035061+00:00",
+      "filetree": "filetree/f6d92a3d4fb4f59b7d6558a199e90e67fd683b6f.nq.gz",
+      "blobs": [
+        "blob/318e35b472e6eda48451ae8113a193ce8a3bd56c.nq.gz",
+        "blob/9ca4f0b71e86bf856cd1b08e7b85460fde1da1df.nq.gz",
+        "blob/14e76ee7768132a899ad1e3723700c7d92e3507a.nq.gz",
+        "blob/94226c25ec547f207d78a64411a514df632f70b8.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
